@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\Generics_Boxing_Unboxing\Generics_Boxing_Unboxing\bin\Debug\net8.0\Generics_Boxing_Unboxing.exe
+C:\Users\Student\source\repos\Generics_Boxing_Unboxing\Generics_Boxing_Unboxing\bin\Debug\net8.0\Generics_Boxing_Unboxing.deps.json
+C:\Users\Student\source\repos\Generics_Boxing_Unboxing\Generics_Boxing_Unboxing\bin\Debug\net8.0\Generics_Boxing_Unboxing.runtimeconfig.json
+C:\Users\Student\source\repos\Generics_Boxing_Unboxing\Generics_Boxing_Unboxing\bin\Debug\net8.0\Generics_Boxing_Unboxing.dll
+C:\Users\Student\source\repos\Generics_Boxing_Unboxing\Generics_Boxing_Unboxing\bin\Debug\net8.0\Generics_Boxing_Unboxing.pdb
+C:\Users\Student\source\repos\Generics_Boxing_Unboxing\Generics_Boxing_Unboxing\obj\Debug\net8.0\Generics_Boxing_Unboxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Generics_Boxing_Unboxing\Generics_Boxing_Unboxing\obj\Debug\net8.0\Generics_Boxing_Unboxing.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Generics_Boxing_Unboxing\Generics_Boxing_Unboxing\obj\Debug\net8.0\Generics_Boxing_Unboxing.AssemblyInfo.cs
+C:\Users\Student\source\repos\Generics_Boxing_Unboxing\Generics_Boxing_Unboxing\obj\Debug\net8.0\Generics_Boxing_Unboxing.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Generics_Boxing_Unboxing\Generics_Boxing_Unboxing\obj\Debug\net8.0\Generics_Boxing_Unboxing.dll
+C:\Users\Student\source\repos\Generics_Boxing_Unboxing\Generics_Boxing_Unboxing\obj\Debug\net8.0\refint\Generics_Boxing_Unboxing.dll
+C:\Users\Student\source\repos\Generics_Boxing_Unboxing\Generics_Boxing_Unboxing\obj\Debug\net8.0\Generics_Boxing_Unboxing.pdb
+C:\Users\Student\source\repos\Generics_Boxing_Unboxing\Generics_Boxing_Unboxing\obj\Debug\net8.0\Generics_Boxing_Unboxing.genruntimeconfig.cache
+C:\Users\Student\source\repos\Generics_Boxing_Unboxing\Generics_Boxing_Unboxing\obj\Debug\net8.0\ref\Generics_Boxing_Unboxing.dll
