@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\HierarchyOfClasses\HierarchyOfClasses\bin\Debug\net8.0\HierarchyOfClasses.exe
+C:\Users\Student\source\repos\HierarchyOfClasses\HierarchyOfClasses\bin\Debug\net8.0\HierarchyOfClasses.deps.json
+C:\Users\Student\source\repos\HierarchyOfClasses\HierarchyOfClasses\bin\Debug\net8.0\HierarchyOfClasses.runtimeconfig.json
+C:\Users\Student\source\repos\HierarchyOfClasses\HierarchyOfClasses\bin\Debug\net8.0\HierarchyOfClasses.dll
+C:\Users\Student\source\repos\HierarchyOfClasses\HierarchyOfClasses\bin\Debug\net8.0\HierarchyOfClasses.pdb
+C:\Users\Student\source\repos\HierarchyOfClasses\HierarchyOfClasses\obj\Debug\net8.0\HierarchyOfClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\HierarchyOfClasses\HierarchyOfClasses\obj\Debug\net8.0\HierarchyOfClasses.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\HierarchyOfClasses\HierarchyOfClasses\obj\Debug\net8.0\HierarchyOfClasses.AssemblyInfo.cs
+C:\Users\Student\source\repos\HierarchyOfClasses\HierarchyOfClasses\obj\Debug\net8.0\HierarchyOfClasses.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\HierarchyOfClasses\HierarchyOfClasses\obj\Debug\net8.0\HierarchyOfClasses.dll
+C:\Users\Student\source\repos\HierarchyOfClasses\HierarchyOfClasses\obj\Debug\net8.0\refint\HierarchyOfClasses.dll
+C:\Users\Student\source\repos\HierarchyOfClasses\HierarchyOfClasses\obj\Debug\net8.0\HierarchyOfClasses.pdb
+C:\Users\Student\source\repos\HierarchyOfClasses\HierarchyOfClasses\obj\Debug\net8.0\HierarchyOfClasses.genruntimeconfig.cache
+C:\Users\Student\source\repos\HierarchyOfClasses\HierarchyOfClasses\obj\Debug\net8.0\ref\HierarchyOfClasses.dll
