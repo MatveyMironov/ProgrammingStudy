@@ -1,0 +1,7 @@
+F:\C# Projects\ProgrammingStudy\CreationalPatterns\CreationalPatterns\bin\Debug\CreationalPatterns.exe.config
+F:\C# Projects\ProgrammingStudy\CreationalPatterns\CreationalPatterns\bin\Debug\CreationalPatterns.exe
+F:\C# Projects\ProgrammingStudy\CreationalPatterns\CreationalPatterns\bin\Debug\CreationalPatterns.pdb
+F:\C# Projects\ProgrammingStudy\CreationalPatterns\CreationalPatterns\obj\Debug\CreationalPatterns.csproj.AssemblyReference.cache
+F:\C# Projects\ProgrammingStudy\CreationalPatterns\CreationalPatterns\obj\Debug\CreationalPatterns.csproj.CoreCompileInputs.cache
+F:\C# Projects\ProgrammingStudy\CreationalPatterns\CreationalPatterns\obj\Debug\CreationalPatterns.exe
+F:\C# Projects\ProgrammingStudy\CreationalPatterns\CreationalPatterns\obj\Debug\CreationalPatterns.pdb
