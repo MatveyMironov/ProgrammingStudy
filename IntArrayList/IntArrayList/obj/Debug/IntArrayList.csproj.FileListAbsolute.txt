@@ -1,0 +1,7 @@
+F:\C# Projects\ProgrammingStudy\IntArrayList\IntArrayList\bin\Debug\IntArrayList.exe.config
+F:\C# Projects\ProgrammingStudy\IntArrayList\IntArrayList\bin\Debug\IntArrayList.exe
+F:\C# Projects\ProgrammingStudy\IntArrayList\IntArrayList\bin\Debug\IntArrayList.pdb
+F:\C# Projects\ProgrammingStudy\IntArrayList\IntArrayList\obj\Debug\IntArrayList.csproj.AssemblyReference.cache
+F:\C# Projects\ProgrammingStudy\IntArrayList\IntArrayList\obj\Debug\IntArrayList.csproj.CoreCompileInputs.cache
+F:\C# Projects\ProgrammingStudy\IntArrayList\IntArrayList\obj\Debug\IntArrayList.exe
+F:\C# Projects\ProgrammingStudy\IntArrayList\IntArrayList\obj\Debug\IntArrayList.pdb
