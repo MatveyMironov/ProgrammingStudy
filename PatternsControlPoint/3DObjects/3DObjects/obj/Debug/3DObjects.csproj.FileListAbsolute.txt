@@ -1,0 +1,7 @@
+F:\C# Projects\ProgrammingStudy\PatternsControlPoint\3DObjects\3DObjects\bin\Debug\3DObjects.exe.config
+F:\C# Projects\ProgrammingStudy\PatternsControlPoint\3DObjects\3DObjects\bin\Debug\3DObjects.exe
+F:\C# Projects\ProgrammingStudy\PatternsControlPoint\3DObjects\3DObjects\bin\Debug\3DObjects.pdb
+F:\C# Projects\ProgrammingStudy\PatternsControlPoint\3DObjects\3DObjects\obj\Debug\3DObjects.csproj.AssemblyReference.cache
+F:\C# Projects\ProgrammingStudy\PatternsControlPoint\3DObjects\3DObjects\obj\Debug\3DObjects.csproj.CoreCompileInputs.cache
+F:\C# Projects\ProgrammingStudy\PatternsControlPoint\3DObjects\3DObjects\obj\Debug\3DObjects.exe
+F:\C# Projects\ProgrammingStudy\PatternsControlPoint\3DObjects\3DObjects\obj\Debug\3DObjects.pdb

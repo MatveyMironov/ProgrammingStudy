@@ -1,0 +1,7 @@
+F:\C# Projects\ProgrammingStudy\PatternsControlPoint\FoodDelivery\FoodDelivery\bin\Debug\FoodDelivery.exe.config
+F:\C# Projects\ProgrammingStudy\PatternsControlPoint\FoodDelivery\FoodDelivery\bin\Debug\FoodDelivery.exe
+F:\C# Projects\ProgrammingStudy\PatternsControlPoint\FoodDelivery\FoodDelivery\bin\Debug\FoodDelivery.pdb
+F:\C# Projects\ProgrammingStudy\PatternsControlPoint\FoodDelivery\FoodDelivery\obj\Debug\FoodDelivery.csproj.AssemblyReference.cache
+F:\C# Projects\ProgrammingStudy\PatternsControlPoint\FoodDelivery\FoodDelivery\obj\Debug\FoodDelivery.csproj.CoreCompileInputs.cache
+F:\C# Projects\ProgrammingStudy\PatternsControlPoint\FoodDelivery\FoodDelivery\obj\Debug\FoodDelivery.exe
+F:\C# Projects\ProgrammingStudy\PatternsControlPoint\FoodDelivery\FoodDelivery\obj\Debug\FoodDelivery.pdb

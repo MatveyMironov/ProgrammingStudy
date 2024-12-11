@@ -1,0 +1,7 @@
+F:\C# Projects\ProgrammingStudy\PatternsControlPoint\CoffeeMachine\CoffeeMachine\bin\Debug\CoffeeMachine.exe.config
+F:\C# Projects\ProgrammingStudy\PatternsControlPoint\CoffeeMachine\CoffeeMachine\bin\Debug\CoffeeMachine.exe
+F:\C# Projects\ProgrammingStudy\PatternsControlPoint\CoffeeMachine\CoffeeMachine\bin\Debug\CoffeeMachine.pdb
+F:\C# Projects\ProgrammingStudy\PatternsControlPoint\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.csproj.AssemblyReference.cache
+F:\C# Projects\ProgrammingStudy\PatternsControlPoint\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.csproj.CoreCompileInputs.cache
+F:\C# Projects\ProgrammingStudy\PatternsControlPoint\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.exe
+F:\C# Projects\ProgrammingStudy\PatternsControlPoint\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.pdb
